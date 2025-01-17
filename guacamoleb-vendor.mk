@@ -499,7 +499,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/guacamoleb/proprietary/vendor/firmware/wentai24k_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wentai24k_rtp.bin
 
 PRODUCT_PACKAGES += \
-    audio.primary.msmnile \
+    audio.primary.msmnile_odm \
     com.qti.sensor.gc5035 \
     com.qti.sensor.imx471 \
     com.qti.sensor.imx586
