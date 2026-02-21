@@ -516,7 +516,12 @@ PRODUCT_PACKAGES += \
     com.qti.sensor.imx471 \
     com.qti.sensor.imx586 \
     libarcsoft_dualcam_bokeh_api \
+    libarcsoft_dualcam_bokeh_api_vendor_so \
     libarcsoft_dualcam_refocus_left \
+    libarcsoft_dualcam_refocus_left_vendor_so \
     libarcsoft_dualcam_refocus_preview \
+    libarcsoft_dualcam_refocus_preview_vendor_so \
     libarcsoft_dualcam_refocus_right \
-    libarcsoft_dualcam_refocus_uw
+    libarcsoft_dualcam_refocus_right_vendor_so \
+    libarcsoft_dualcam_refocus_uw \
+    libarcsoft_dualcam_refocus_uw_vendor_so
