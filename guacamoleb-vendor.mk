@@ -511,4 +511,9 @@ PRODUCT_PACKAGES += \
     audio.primary.msmnile_odm \
     com.qti.sensor.gc5035 \
     com.qti.sensor.imx471 \
-    com.qti.sensor.imx586
+    com.qti.sensor.imx586 \
+    libarcsoft_dualcam_bokeh_api \
+    libarcsoft_dualcam_refocus_left \
+    libarcsoft_dualcam_refocus_preview \
+    libarcsoft_dualcam_refocus_right \
+    libarcsoft_dualcam_refocus_uw
