@@ -1,2 +1,0 @@
-radio/* filter=lfs diff=lfs merge=lfs -text
-radio/*.img !text !filter !merge !diff
